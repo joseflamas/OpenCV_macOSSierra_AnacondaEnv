@@ -1,7 +1,6 @@
 # OpenCV_macOSSierra_AnacondaEnv
 
-# Heading 1
-macOS Sierra + OpenCV + Anaconda + Sublime Text 
+# macOS Sierra + OpenCV + Anaconda + Sublime Text 
 
 
 
@@ -82,7 +81,9 @@ At the end you can have something similar to this ...
 
 
 ![Env test](resources/test000.png)
-![Video Input test](Image resources/test0V0.png)  
+
+
+![Video Input test](resources/test0V0.png)  
 
 
 
