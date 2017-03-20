@@ -1,0 +1,32 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"/Users/memo/anaconda3/envs/Expyrimental3/bin/python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/memo/_sublime/OpenCV"
+		}
+	],
+	"settings":
+	{
+		"anaconda_linting": false,
+		"anaconda_linting_behaviour": "always",
+		"extra_paths":
+		[
+			"/Users/memo/anaconda3/envs/Expyrimental3/lib/awesome_python_lib"
+		],
+		"pep257": false,
+		"python_interpreter": "/Users/memo/anaconda3/envs/Expyrimental3/bin/python",
+		"test_command": "python -m unittest discover",
+		"use_pylint": false,
+		"validate_imports": true
+	}
+}
