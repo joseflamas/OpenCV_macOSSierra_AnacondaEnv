@@ -5,9 +5,9 @@
 
 ## In English from region 1
 
-I love to experiment and break things appart, at the end, my OS is always pay the prize and at some point, I always find myself having to do a backup and a clean install to continue experimenting so, for my future self, and anyone who could be interested in take something of this an use it as he/she pleased, can do it.
+I love to experiment and break things appart, at the end, my OS always pay the prize and at some point I find myself having to do a backup and a clean install to continue experimenting so, for my future self and for anyone who could be interested in take something of this an use it as he/she pleased.
 
-I will follow Adrian Rosebrock tutorial, pucblished past December 2016 and I hope he does not get mad about it for taking it as a reference, this is an update and is focused in anaconda environments for the simple reason I am currently working with them at the time and I found the possibility of isolate opencv to just one anaconda environmet, after some tests I hope to update this to also compile tensorflow instead of using the wheel from pip.
+I will follow Adrian Rosebrock tutorial published past December 2016 and I hope he does not get mad for taking it as a reference, this is an update and is focused in anaconda environments for the simple reason I am currently working with them at the time and I found the possibility of isolate opencv to just one anaconda environmet, after some tests I hope to update this to also compile tensorflow instead of using the wheel from pip.
 
 The Installation process is in the jupyter notebook in this repo, just go to it an it will render fine in any explorer.
 
