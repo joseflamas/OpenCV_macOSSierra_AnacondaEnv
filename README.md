@@ -2,6 +2,7 @@
 
 # macOS Sierra + OpenCV + Anaconda + Sublime Text 
 
+## En Español de la región 4
 
 
 Me encanta experimentar y romper cosas, al final mi sistema operativo siempre paga el precio y en algún momento me veo en la necesidad de hacer un respaldo y hacer una instalacion limpia de mi preparacion para poder seguir experimentando, así que, para mi futuro yo y cualquier persona a la que quizá le interese tomar algo de aqui y usarlo como el guste, pueda hacerlo. ( Además es mi último día de vacaciones ) 
@@ -38,6 +39,7 @@ Intel HD Graphics 4000 1536 MB ( lo siento no CUDA :( )
 macOS Sierra 10.12.3
 
 
+## In English from region 1
 
 
 In english ... is the same ... ( Excuse my french )
