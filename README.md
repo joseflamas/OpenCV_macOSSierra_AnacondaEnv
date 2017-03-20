@@ -38,6 +38,12 @@ Macbook pro mid 2012 ( 13-inch )
 Intel HD Graphics 4000 1536 MB ( lo siento no CUDA :( )
 macOS Sierra 10.12.3
 
+requerimientos minimos para poder jugar:
+
+python:
+	- por lo menos 2.7
+	- jupyter para seguir el tutorial
+
 
 ## In English from region 1
 
